@@ -4,21 +4,27 @@ Statuses: **PROBLEM** | **ASSIGNED** | **WORKING** | **FINISHED**
 Rules: one task per soldier. Leon is the only tester. Nothing is pushed live until he marks it PASS.
 Flow: ASSIGNED -> WORKING -> FINISHED (+ link) -> Leon tests -> PASS -> push -> COL Pip assigns the next item from LIST.md.
 Stuck? Set PROBLEM and write one line saying why.
-Round 2 (Oct 20 2026): every soldier gets ONE new game, blog post, or Top 5. Read STANDARDS.md first. Mobile-first. Games get the shared intro (/intro/).
+
+## Round 2 (Oct 20 2026): KIDS CORNER GAMES
+Every free soldier builds ONE kids game. Players: ages 7 and 12.
+Kids rules: big buttons (min 64px), no reading needed to play, no losing/punishment, no ads, no chat, no links out, no casino anything.
+Easy for a 7-year-old, gets faster/harder so a 12-year-old stays hooked. Paper Pip or a battalion soldier is the star.
+Mobile-first. Shared intro (/intro/, clean style). Put it under /kids/<game-name>/. Read STANDARDS.md first.
+Reference: https://www.leonlink.net/kids/sticky-note-chase/
 
 | Rank Name | Task | Status | Link | Test |
 |---|---|---|---|---|
-| MAJ Dollface | R2-01 TOP 5: "Top 5 Games on LeonLink Right Now" (screenshot + 2 lines each) | ASSIGNED | | |
-| 1LT Bugs | R2-02 GAME (Arcade): "Bug Hunt with Sgt Bugs" - tap-to-squash bugs, 60-sec rounds | ASSIGNED | | |
-| 2LT Dan | R2-03 GAME (Arcade): "The Great Escape" - Pip runner dodging guards to the truck | ASSIGNED | | |
-| the Captain | R2-04 BLOG: "Why We Retired the AI Army" - honest look back at the experiment | ASSIGNED | | |
-| SSgt Lockdown | R2-05 GAME (Arcade): "Lockdown's Gate" - simple tap-to-block tower defense | ASSIGNED | | |
-| Sgt Quill | R2-06 BLOG (Kids): short read-aloud story "Pip and the Missing 0800" | ASSIGNED | | |
-| CPL Love | R2-07 TOP 5: "Top 5 Moments From the Battalion" (from Letters 1-6) | ASSIGNED | | |
-| PFC Julia | R2-08 GAME (Kids): "Dress Up Pip" - hats, glasses, colors, save picture | ASSIGNED | | |
-| PFC Hands | R2-09 GAME (Kids): "Pip Memory Match" - battalion soldiers on the cards | ASSIGNED | | |
-| SGM Susan | R2-10 BLOG: "Meet the Battalion" - one paragraph per soldier, call signs only | ASSIGNED | | |
-| 1SG Datasheet | R2-11 TOP 5: "Top 5 Kids Corner Games to Play With Your Family" | ASSIGNED | | |
-| MSG Errnie | R2-12 GAME (Casino, adults): "Inspection Slots" - soldier-face reels, play money only | ASSIGNED | | |
-| Cpl Glitch | R2-13 GAME (Kids): "Paper Pip Plane" - fly Pip home to the porch | ASSIGNED | | |
-| Pvt Static | R2-14 TOP 5: "Top 5 Bugs We Squashed Building LeonLink" (funny dev log) | ASSIGNED | | |
+| MAJ Dollface | (already on assigned work - not in Round 2) | - | | |
+| 2LT Dan | (already on assigned work - not in Round 2) | - | | |
+| MSG Errnie | (already on assigned work - not in Round 2) | - | | |
+| 1LT Bugs | R2-01 TAP/CATCH: "Bug Hunt with Sgt Bugs" - tap cartoon bugs before they hide, 60-sec rounds | ASSIGNED | | |
+| SSgt Lockdown | R2-02 SORTING: "Lockdown's Mailroom" - drag letters into the right colored mailbox | ASSIGNED | | |
+| PFC Julia | R2-03 DRESS-UP/CREATIVE: "Dress Up Pip" - hats, glasses, colors, save a picture | ASSIGNED | | |
+| PFC Hands | R2-04 MEMORY: "Pip Memory Match" - flip cards, battalion soldiers on the faces | ASSIGNED | | |
+| Cpl Glitch | R2-05 FLYING: "Paper Pip Plane" - tap to fly Pip home to the porch, collect stars | ASSIGNED | | |
+| the Captain | R2-06 SPOT-THE-DIFFERENCE: "What Changed at HQ?" - two pictures, tap the 5 differences | ASSIGNED | | |
+| Sgt Quill | R2-07 STORY-PICK: "Pip's Choose-a-Path" - picture-button story, every path ends happy, read-aloud voice | ASSIGNED | | |
+| CPL Love | R2-08 MUSIC: "Battalion Band" - tap soldiers to play drums/notes, make a song | ASSIGNED | | |
+| SGM Susan | R2-09 COLORING: "Color the Battalion" - tap to fill coloring pages, save picture | ASSIGNED | | |
+| 1SG Datasheet | R2-10 COUNTING/MATH: "Pip Counts the Paperclips" - count & tap the right number, harder levels add/subtract | ASSIGNED | | |
+| Pvt Static | R2-11 PUZZLE: "Pip Jigsaw" - drag pieces to finish Pip pictures, 4 to 16 pieces | ASSIGNED | | |
