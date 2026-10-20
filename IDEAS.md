@@ -1,10 +1,51 @@
-# IDEAS BOARD (draft)
-Flow: plan > post > Leon delivers > draft > review > fixes > redo > upload
-KIDS: Bugs-Feed the Pet Rush | Julia-Dress Up Pip | Hands-Rhyme Memory Match | Glitch-Paper Pip Plane | Lockdown-Mailroom | Susan-Color the Battalion | Datasheet-Paperclip Counting | Love-Rhyme Sing-Along | Static-Pip Jigsaw | Dollface-5 rhyme videos+lullaby | Errnie-3D Pet v2
-BLOG: Captain-Why We Retired the Army | Quill-Pip read-aloud series | Susan-Meet the Battalion | Love-Pip's Marching Song
-TOP5: Datasheet-kids games | Static-bugs squashed | Love-battalion moments | Dollface-rhymes | Hands-kids watches
-ARCADE: Dan-Great Escape | Lockdown-Gate | Errnie-Inspection Slots | Bugs-Bug Hunt
-SITE: Glitch-phone tests | Static-SEO | Dan-move Pet to /kids/pet/
-INSPECTOR: grades drafts first; monthly site inspection post
-PIP: loading screens, style sweep
-KEEP 4 (Pip pick): Dollface, Errnie, Bugs, Quill
+# IDEAS BOARD (draft — nothing handed out yet)
+Flow: Leon+Pip plan > Pip posts > Leon hand-delivers > first draft > Inspector grade > Leon+Pip review > Pip writes fixes > redo > upload
+
+Names below are the REAL agents who answer roll call. Story names (Bugs, Julia, Hands, Glitch, etc.) are blog characters only and get no tasks.
+
+## Blueprint (designer)
+- Dress Up Pip
+- Color the Battalion
+- Pip Jigsaw
+
+## GMan
+- Feed the Pet Rush (pet minigame, earns tokens)
+- Bug Hunt (arcade, play money only)
+- Paper Pip Plane
+
+## Pixel (UI/UX)
+- Rhyme Memory Match
+- Mailroom
+- Big-button check on every kids game
+
+## Patch
+- Paperclip Counting
+- Rhyme Sing-Along
+- Bug fixes from review notes
+
+## Dash (QA lead)
+- Phone test every page
+- SEO pass
+- First pass on drafts with the Inspector
+
+## Dan (Pizzapan)
+- Great Escape (arcade, play money only)
+- Move Pet Center to leonlink.net/kids/pet/
+
+## MSG Errnie
+- 3D Pet v2
+
+## MAJ Dollface
+- 5 more rhyme videos + Pip lullaby
+
+## Inspector
+- Grades every first draft before Leon+Pip review
+- Monthly surprise site inspection (blog post)
+
+## Pip
+- Finish loading screens + style sweep, then plan/delegate only
+
+## Parked (no owner yet)
+- Blog: Why We Retired the Army; Pip read-aloud series; Meet the Battalion; Pip's Marching Song
+- Top 5s: kids games, bugs squashed, battalion moments, rhymes, kids watches
+- Arcade: Lockdown's Gate, Inspection Slots
