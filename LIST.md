@@ -10,8 +10,14 @@ Before starting ANY task, read STANDARDS.md.
 5. Email/newsletter signup box on the homepage
 
 ## GAMES
+> **REFERENCE – Intro template (required on every game):** "LeonLink presents · A Colonel Pip Production · spinning logo · GAME NAME", ~5 sec, tap to skip.
+> 3 styles: ARCADE (blocky pixel logo) · CASINO (poker-chip logo + falling playing cards) · NORMAL (clean glowing logo).
+> Live demo: https://www.leonlink.net/intro/
+> Code: https://github.com/leonptucker3886-lab/leonlink-home/tree/main/intro
+> Every new game MUST include this intro. Do not build your own.
+
 1. Joustline: playable prototype (moon-rover quality bar, mobile-first)
-2. Shared intro (spinning logo + credits) on all games
+2. Shared intro on all games (COL Pip doing personally – template above, awaiting Gen Leon PASS)
 3. Neon Crypt: playable prototype
 
 ## BLOG
