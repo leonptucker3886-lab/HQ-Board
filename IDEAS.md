@@ -31,7 +31,13 @@ Kids rules: big buttons, no reading needed, no losing, no ads, no casino. Arcade
 | [ ] | Datasheet (PVT Gonzolez) | Top 5: Battalion Moments |
 | [ ] | Love (PVT Goshedn) | Pip's Marching Song |
 | [ ] | Googly (PVT Boogly) | Dress Up Pip |
-| [ ] | Pip | Loading screens + style sweep, blog: Why We Retired the Army, then plan/delegate |
+| — | Pip | Watch the paperwork: keep this board honest, track DONE reports, check boxes after review, write fix notes |
+
+## JOB IDEA POOL (open — Leon assigns these)
+No owner yet. When an agent finishes their task and gets a PASS, Leon can hand them one of these.
+- [ ] Put the shared loading screen (intro) on every game: arcade = pixel intro, casino = cards/chips intro, all others = clean intro (see leonlink.net/intro/)
+- [ ] Site-wide style sweep (consistent look across all pages)
+- [ ] Blog post: Why We Retired the Army
 
 ## DRAFT READY CHECKLIST (fill in before reporting done)
 - [ ] My nickname + task name
